@@ -1,2 +1,3 @@
-# alex-ariza
-CV Website
+# Alex Ariza
+Healthcare Project Manager & Marketing Specialist
+
